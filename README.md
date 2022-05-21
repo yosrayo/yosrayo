@@ -1,4 +1,4 @@
-
+[
 [<h1 align="center">Hi 👋, I'm Yosra Bahri</h1>
 <h3 align="center">A passionate full stack developer from Tunisia</h3>
 
@@ -14,4 +14,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yosrayo&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yosrayo&layout=compact)](https://github.com/yosrayo/github-readme-stats)
+](https://www.linkedin.com/in/yosra-bahri-1083291b7/)
 ](https://www.linkedin.com/in/yosra-bahri-1083291b7/)
